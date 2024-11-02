@@ -40,6 +40,8 @@ These parameters were chosen to balance model complexity and performance, ensuri
 
 ## Performance Results
 
+![Model Architecture](https://firebasestorage.googleapis.com/v0/b/common-e8332.appspot.com/o/cost%20vs%20epochs.png?alt=media&token=69c31118-45f3-4bce-85db-019545ead5a3)
+
 ![Model Architecture](https://firebasestorage.googleapis.com/v0/b/common-e8332.appspot.com/o/accuracy_train.png?alt=media&token=e52452d5-ba08-465b-8055-cb99bea8241c)
 
 ![Model Architecture](https://firebasestorage.googleapis.com/v0/b/common-e8332.appspot.com/o/accuracy_test.png?alt=media&token=6a157c82-3795-47f5-9493-352f9f12525b)
