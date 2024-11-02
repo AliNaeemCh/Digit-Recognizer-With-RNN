@@ -79,10 +79,6 @@ The model demonstrated impressive results, showcasing its effectiveness in recog
 
 These metrics reflect the model's robustness and its capacity to generalize well to unseen data.
 
-## Model Architecture
-
-The architecture of the recurrent neural network employed in this project is designed to efficiently process and classify audio features. Here’s a visualization of the architecture:
-
 ## Conclusion
 
 This Digit Recognition System effectively demonstrates the application of RNNs in audio signal processing and achieved a high level of accuracy on both training and testing datasets.
